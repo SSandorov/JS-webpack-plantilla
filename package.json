@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/SSandorov/03-webpack-plantilla#readme",
   "devDependencies": {
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
   }
