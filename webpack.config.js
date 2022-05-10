@@ -7,6 +7,7 @@ module.exports = {
     mode: 'development',
 
     output: {
+        // clean nos actualiza el directorio dist automáticamente
         clean: true
     },
 
